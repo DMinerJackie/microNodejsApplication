@@ -15,4 +15,4 @@ if you find error like "can't find module mongoose...", you can input "npm insta
 Eclipse
 
 # Contact
-any questions please contact me zjhxp_1990@qq.com
+any questions please refer to http://www.cnblogs.com/bigdataZJ/p/Nodejs4.html
